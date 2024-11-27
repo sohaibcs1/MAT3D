@@ -13,8 +13,7 @@ MAT3D uses Multi-Aperture Transformers for accurate 3D segmentation in clinical 
 
 | Day 2 | Day 5 | Day 7 |
 |-------|-------|-------|
-| [![MCF10A Day 2](gif/10a_day2_c.gif)](gif/10a_day2_c.gif) | [![MCF10A Day 5](gif/10a_day5_c.gif)](gif/10a_day5_c.gif) | [![MCF10A Day 7](gif/10a_day7.gif)](gif/10a_day7.gif) |
-| **MCF10A Day 2** | **MCF10A Day 5** | **MCF10A Day 7** |
+| <div align="center">[![MCF10A Day 2](gif/10a_day2_c.gif)](gif/10a_day2_c.gif)<br>**MCF10A Day 2**</div> | <div align="center">[![MCF10A Day 5](gif/10a_day5_c.gif)](gif/10a_day5_c.gif)<br>**MCF10A Day 5**</div> | <div align="center">[![MCF10A Day 7](gif/10a_day7.gif)](gif/10a_day7.gif)<br>**MCF10A Day 7**</div> |
 
 
 
