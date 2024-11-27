@@ -13,19 +13,19 @@ MAT3D uses Multi-Aperture Transformers for accurate 3D segmentation in clinical 
 <div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px;">
   <div>
     <a href="gif/10a_day2_c.gif">
-      <img src="gif/10a_day2_c.gif" alt="Video Preview 1" width="200px" />
+      <img src="gif/10a_day2_c.gif" alt="Video Preview 1" width="150px" />
     </a>
     <p style="text-align: center;">MCF10A Day 2</p>
   </div>
   <div>
     <a href="gif/10a_day5_c.gif">
-      <img src="gif/10a_day5_c.gif" alt="Video Preview 2" width="200px" />
+      <img src="gif/10a_day5_c.gif" alt="Video Preview 2" width="150px" />
     </a>
     <p style="text-align: center;">MCF10A Day 5</p>
   </div>
   <div>
     <a href="gif/10a_day7.gif">
-      <img src="gif/10a_day7.gif" alt="Video Preview 3" width="200px" />
+      <img src="gif/10a_day7.gif" alt="Video Preview 3" width="150px" />
     </a>
     <p style="text-align: center;">MCF10A Day 7</p>
   </div>
