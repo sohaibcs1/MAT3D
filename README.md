@@ -7,10 +7,6 @@
 
 </div>
 
-🚀 **Official PyTorch Implementation**  
-
-
----
 
 ## 📜 Overview
 
