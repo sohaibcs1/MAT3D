@@ -7,7 +7,6 @@
 
 </div>
 
-
 ## 📜 Overview
 
 MAT3D uses Multi-Aperture Transformers for accurate 3D segmentation in clinical and microscopic imaging
