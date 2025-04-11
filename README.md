@@ -104,6 +104,6 @@ python3.10 main.py
 
 ## 📣 Citation
 
-M. Sohaib, S. Shabani, S. A. Mohammed, G. Winkelmaier, and B. Parvin, “Multi-Aperture Transformers for 3D (MAT3D) Segmentation of Clinical and Microscopic Images,” in Proc. Winter Conference on Applications of Computer Vision (WACV), Feb. 2025, pp. 4352–4361.
+M. Sohaib, S. Shabani, S. A. Mohammed, G. Winkelmaier and B. Parvin, "Multi-Aperture Transformers for 3D (MAT3D) Segmentation of Clinical and Microscopic Images," 2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), Tucson, AZ, USA, 2025, pp. 4352-4361, doi: 10.1109/WACV61041.2025.00427.
 
 ---
