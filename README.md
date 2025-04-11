@@ -3,7 +3,7 @@
   <h1>MAT3D</h1>
   <p>Multi-Aperture Transformers for 3D (MAT3D) Segmentation of Clinical and Microscopic Images!</p>
 
-📘 **Paper Link**: [Access the Paper](https://openaccess.thecvf.com/content/WACV2025/papers/Sohaib_Multi-Aperture_Transformers_for_3D_MAT3D_Segmentation_of_Clinical_and_Microscopic_WACV_2025_paper.pdf)
+📘 **Paper Link**: [Access the Paper](https://ieeexplore.ieee.org/document/10944038)
 
 </div>
 
