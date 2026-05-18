@@ -3,27 +3,27 @@
   <h1>MAT3D</h1>
   <p>Multi-Aperture Transformers for 3D (MAT3D) Segmentation of Clinical and Microscopic Images!</p>
 
-📘 **Paper Link**: [Access the Paper](https://ieeexplore.ieee.org/document/10944038)
+ **Paper Link**: [Access the Paper](https://ieeexplore.ieee.org/document/10944038)
 
 </div>
 
-## 🎥 Video Presentation
+## Video Presentation
 
 🔗 YouTube Link: https://youtu.be/JOZAs1t7yYw
 
-## 📜 Overview
+##  Overview
 
 MAT3D uses Multi-Aperture Transformers for accurate 3D segmentation in clinical and microscopic imaging
 
 ---
-### 🌌  Framework
+### Framework
 <div align="center">
   <img src="diagram/framework.png" alt="MAT3D Framework" style="width:80%;"/>
 </div>
 
 ---
 
-## 🛠️ Environment Setup
+## Environment Setup
 
 Set up the environment for MAT3D as follows:
 
@@ -35,13 +35,13 @@ pip install -r requirements.txt
 
 ---
 
-## 📂 Dataset
+## Dataset
 
-### 🔗 Download Links:
+### Download Links:
 - [Synapse Multi-Organ Dataset](https://www.synapse.org/#!Synapse:syn3193805/wiki/89480)  
 - [ACDC Challenge Dataset](https://www.creatis.insa-lyon.fr/Challenge/acdc/)
 
-### 🗂️ Folder Structure:
+### Folder Structure:
 Organize your data as follows:
 
 ```
@@ -57,7 +57,7 @@ data/
 
 ---
 
-## 🚀 Running the Code
+## Running the Code
 
 This repository is built upon the foundational work provided in [Synapse](https://github.com/LeonidAlekseev/Swin-UNETR).
 
@@ -65,7 +65,7 @@ This repository is built upon the foundational work provided in [Synapse](https:
 
 Before training, configure the hyperparameters in the `config.py` file:
 
-#### 🔧 Hyperparameter Configuration:
+#### Hyperparameter Configuration:
 - **`data_dir`**: Path to the dataset.  
 - **`saved_model_dir`**: Directory to save trained models and checkpoints.  
 - **`num_samples`**: Number of samples for training.  
@@ -86,7 +86,7 @@ python3.10 main.py
 
 ---
 
-## 📊 Results
+## Results
 
 ### Quantitative Results (Microscopic data):
 <div align="center">
@@ -106,7 +106,7 @@ python3.10 main.py
 </div>
 
 
-## 📣 Citation
+## Citation
 
 M. Sohaib, S. Shabani, S. A. Mohammed, G. Winkelmaier and B. Parvin, "Multi-Aperture Transformers for 3D (MAT3D) Segmentation of Clinical and Microscopic Images," 2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), Tucson, AZ, USA, 2025, pp. 4352-4361, doi: 10.1109/WACV61041.2025.00427.
 
